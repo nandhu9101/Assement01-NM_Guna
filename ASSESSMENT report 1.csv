@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Assess_suite1,Chrome 125.0.0.0,,,13-06-2024 13:18,13-06-2024 13:30,11m - 49.828s,FAILED
+,,,,,,,
+Test Cases/ASSESS_Bhu,Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,34.505s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,4.665s,PASSED
+"navigateToUrl(""https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site"")",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,27.030s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/div__logo-box m-r-cell""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.356s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/h2_Banaras Hindu University""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.299s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/h3_Notices""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.329s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/div_Obscura-Photography CompetitionExhibiti_ed044b""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.533s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/h3_Stories From The Ground""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.355s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/h6_National Portal Links""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.310s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/h1_This page is managed by Computer Center (BHU)""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.309s,PASSED
+"click(findTestObject(""Object Repository/bhu/Page_Home - Banaras Hindu University, Varan_07f604/img""))",Chrome 125.0.0.0,,,13-06-2024 13:20,13-06-2024 13:20,0.293s,PASSED
+,,,,,,,
+Test Cases/ASSESS_bhu2,Chrome 125.0.0.0,,,13-06-2024 13:22,13-06-2024 13:22,26.660s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 13:22,13-06-2024 13:22,3.233s,PASSED
+"navigateToUrl(""https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site"")",Chrome 125.0.0.0,,,13-06-2024 13:22,13-06-2024 13:22,22.493s,PASSED
+"click(findTestObject(""Object Repository/bhu2/Page_Home - Banaras Hindu University, Varan_07f604/span__icon-bar""))",Chrome 125.0.0.0,,,13-06-2024 13:22,13-06-2024 13:22,0.305s,PASSED
+"click(findTestObject(""Object Repository/bhu2/Page_Home - Banaras Hindu University, Varan_07f604/span_Academics""))",Chrome 125.0.0.0,,,13-06-2024 13:22,13-06-2024 13:22,0.602s,FAILED
+,,,,,,,
+Test Cases/ASSESS_bhu3,Chrome 125.0.0.0,,,13-06-2024 13:25,13-06-2024 13:26,1m - 1.992s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 13:25,13-06-2024 13:25,3.511s,PASSED
+"navigateToUrl(""https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site"")",Chrome 125.0.0.0,,,13-06-2024 13:25,13-06-2024 13:26,25.125s,PASSED
+"click(findTestObject(""Object Repository/bhu3/Page_Home - Banaras Hindu University, Varan_07f604/div_News                                   _cdf08e""))",Chrome 125.0.0.0,,,13-06-2024 13:26,13-06-2024 13:26,0.332s,PASSED
+"click(findTestObject(""Object Repository/bhu3/Page_Home - Banaras Hindu University, Varan_07f604/img""))",Chrome 125.0.0.0,,,13-06-2024 13:26,13-06-2024 13:26,0.561s,PASSED
+"click(findTestObject(""Object Repository/bhu3/Page_Home - Banaras Hindu University, Varan_07f604/div_First Call for TFB(Teach for BHU) Fello_aec337""))",Chrome 125.0.0.0,,,13-06-2024 13:26,13-06-2024 13:26,32.441s,FAILED
+,,,,,,,
+Test Cases/ASSESS_bhu4,Chrome 125.0.0.0,,,13-06-2024 13:28,13-06-2024 13:28,35.333s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 13:28,13-06-2024 13:28,2.355s,PASSED
+"navigateToUrl(""https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site"")",Chrome 125.0.0.0,,,13-06-2024 13:28,13-06-2024 13:28,31.713s,PASSED
+"doubleClick(findTestObject(""Object Repository/bhu4/Page_Home - Banaras Hindu University, Varan_07f604/img""))",Chrome 125.0.0.0,,,13-06-2024 13:28,13-06-2024 13:28,0.455s,PASSED
+"click(findTestObject(""Object Repository/bhu4/Page_Home - Banaras Hindu University, Varan_07f604/span_Career Guidance, Training and Placement Cell""))",Chrome 125.0.0.0,,,13-06-2024 13:28,13-06-2024 13:28,0.788s,FAILED
+,,,,,,,
+Test Cases/ASSESS_bhu5,Chrome 125.0.0.0,,,13-06-2024 13:30,13-06-2024 13:30,33.073s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 13:30,13-06-2024 13:30,2.981s,PASSED
+"navigateToUrl(""https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site"")",Chrome 125.0.0.0,,,13-06-2024 13:30,13-06-2024 13:30,29.400s,PASSED
+"click(findTestObject(""Object Repository/bhu5/Page_Home - Banaras Hindu University, Varan_07f604/span_Campus Communication""))",Chrome 125.0.0.0,,,13-06-2024 13:30,13-06-2024 13:30,0.669s,FAILED
